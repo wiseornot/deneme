@@ -1,12 +1,11 @@
 Romeo ve Juliet, William Shakespeare, 208, 1597
-Sefiller, Victor Hugo, 1515, 1862
-Sefiller, Victor Hugo, 1515, 1862
 Suc ve Ceza, Fyodor Dostoevsky, 672, 1866
 Karamazov Kardesler, Fyodor Dostoevsky, 1002, 1880
 Jane Eyre, Charlotte Bronte, 608, 1847
 Madame Bovary, Gustave Flaubert, 406, 1856
 Great Expectations, Charles Dickens, 600, 1861
 Gulliver'in Gezileri, Jonathan Swift, 64, 1726
+62, 62, 62, 62
 62, 62, 62, 62
 62, 62, 62, 62
 62, 62, 62, 62
